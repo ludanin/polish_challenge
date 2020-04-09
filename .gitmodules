@@ -1,0 +1,6 @@
+[submodule "react"]
+	path = react
+	url = git@github.com:ludanin/polish_challenge_react
+[submodule "go"]
+	path = go
+	url = git@github.com:ludanin/polish_challenge_go
